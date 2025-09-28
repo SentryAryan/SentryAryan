@@ -28,7 +28,7 @@
 <a href="https://twitter.com/aryansr38439504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryansr38439504" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan-srivastava-261974208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-srivastava-261974208" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21969470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21969470" height="30" width="40" /></a>
-<a href="https://hashnode.com/aryan20011967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aryan20011967" height="30" width="40" /></a>
+<a href="https://hashnode.com/@aryan20011967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aryan20011967" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryansrivastava2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryansrivastava2001" height="30" width="40" /></a>
 </p>
 
